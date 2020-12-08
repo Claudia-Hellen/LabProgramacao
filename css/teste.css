@@ -1,0 +1,12 @@
+.notification.is-danger {
+    background-color: #ff3860;
+    color: #fff;
+    width: 25%!important;
+    margin-left: 37%;
+    cursor: pointer;  
+ 
+  padding: 8px 5px;
+
+   
+  
+}
